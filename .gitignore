@@ -1,3 +1,6 @@
 /node_modules/
 
 bundle.js
+public/bundle.js.gz
+public/src_App_jsx.bundle.js
+public/src_App_jsx.bundle.js.gz
