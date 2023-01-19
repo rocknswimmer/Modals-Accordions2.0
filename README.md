@@ -1,7 +1,7 @@
 # Modals-Accordions2.0
 
-### Deployed Demo
-[DEMO](http://52.21.107.140:3005/)
+### Deployed Presentation
+[Modals and Accordions](http://52.21.107.140:3005/)
 
 non create react app version for deployment
 
